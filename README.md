@@ -10,7 +10,7 @@ Welcome to my Power BI Projects repository! This collection showcases a wide ran
 This repository serves as a central hub for all my Power BI portfolio projects completed
 
 - Complete `.pbix` files (Power BI project files)
-- Sample datasets (where allowed)
+- Sample datasets (where required)
 - DAX and SQL formulas used in each project
 - Screenshots of dashboards
 - Project descriptions and key insights
